@@ -1,0 +1,95 @@
+Java basics,4/8/2022, 17:38:23
+turn on camera without light,4/8/2022, 17:36:47
+its possible to turn on laptop camera without permission within web browser,4/8/2022, 17:02:55
+traductor,4/8/2022, 16:57:42
+scrum responsibilities,4/8/2022, 15:58:40
+b tree,4/8/2022, 12:13:45
++62 85805468637,4/8/2022, 10:56:49
+WORSD,4/8/2022, 10:33:16
+mysql copy table to another table,4/8/2022, 07:59:38
+file-based system,4/8/2022, 07:45:36
+jira vs trello,3/8/2022, 14:36:23
+permanent delete database in mongodb,3/8/2022, 14:05:20
+permanent delete table in mongodb,3/8/2022, 14:02:28
+sql precedence order,3/8/2022, 12:28:26
+MONGO QUERIES,3/8/2022, 10:15:27
+seat ibiza 2022,3/8/2022, 09:53:02
+json formatter and validator,3/8/2022, 09:00:15
+batch mongodb,3/8/2022, 08:46:35
+types of sql statements,2/8/2022, 23:47:28
+geeksforgeeks,2/8/2022, 18:13:41
+run mongodb shell 6.0,2/8/2022, 16:23:54
+mongo w3schools,2/8/2022, 14:45:38
+select mongodb,2/8/2022, 14:44:13
+drop database is not a function mongodb,2/8/2022, 14:22:04
+drop database is not a function,2/8/2022, 14:11:38
+cmd recent commands,2/8/2022, 13:18:29
+referals,2/8/2022, 12:50:12
+md command,2/8/2022, 11:53:39
+GOGGLE MAPS,2/8/2022, 11:37:07
+udemy,2/8/2022, 10:04:57
+weak key attribute,2/8/2022, 08:41:53
+underscored primary key,2/8/2022, 08:41:35
+STRONG PRIMAY KEY VS,2/8/2022, 08:41:21
+SWITCH PROGRAMMING PDF,1/8/2022, 14:54:32
+MY_EMPLOYEES table ORACLE,1/8/2022, 14:41:12
+MY_EMPLOYEES ORACLE,1/8/2022, 14:41:04
+flow chart icons and meanings,1/8/2022, 14:17:19
+globant careers,1/8/2022, 13:59:58
+install mongodb compass,1/8/2022, 13:40:24
+globant DESIGNER,1/8/2022, 12:57:04
+globant,1/8/2022, 12:57:00
+hireline,1/8/2022, 12:41:39
+matrix query,1/8/2022, 10:29:06
+bad apple PC,1/8/2022, 09:32:35
+bad apple,1/8/2022, 09:32:29
+visual studio code,29/7/2022, 10:53:23
+chevrolet,29/7/2022, 09:33:24
+SPOTIFY,28/7/2022, 16:32:10
+ORACLE HR DATABASE FOR MYSQL,28/7/2022, 13:43:18
+rastrear dhl,28/7/2022, 13:42:21
+mysql not equals,28/7/2022, 11:33:02
+sql wildcards third letter,28/7/2022, 11:15:03
+mysql where null,28/7/2022, 10:42:18
+descanillado,28/7/2022, 00:46:47
+show structure of table mysql,27/7/2022, 23:23:32
+hackerrank,27/7/2022, 11:03:59
+prensa gym,27/7/2022, 08:42:53
+nto,27/7/2022, 08:37:20
+superkey vs candidate key,27/7/2022, 08:35:35
+sql wildcards,26/7/2022, 18:36:05
+Agile metodology,26/7/2022, 17:57:53
+nISSAN,25/7/2022, 15:53:04
+cst time zone,25/7/2022, 15:11:09
+time in CST,25/7/2022, 15:10:55
+time in aguascalientes,25/7/2022, 15:10:50
+time in mexico,25/7/2022, 15:10:42
+mysql community,25/7/2022, 13:25:56
+mysql,25/7/2022, 13:25:47
+openlibra,25/7/2022, 11:58:56
+programiz,25/7/2022, 11:08:13
+precios casas reserva quetzales,25/7/2022, 09:04:21
+WHAT event-based  MEANS IN IT,25/7/2022, 08:55:34
+WHAT Distributed MEANS IN IT,25/7/2022, 08:54:36
+WHAT SEQUENTIAL MEANS IN IT,25/7/2022, 08:54:05
+WHAT CONCURRENT MEANS IN IT,25/7/2022, 08:46:46
+uNDEAD KINGS,24/7/2022, 20:17:13
+undead,24/7/2022, 15:16:08
+Gamepass leaving,24/7/2022, 13:31:15
+game pass,24/7/2022, 13:30:52
+xboxclips,23/7/2022, 22:30:46
+SUELDOS OUTSYSTEMS,22/7/2022, 14:31:44
+outsystems,22/7/2022, 14:29:30
+mozilla firefox,22/7/2022, 08:16:09
+wen,21/7/2022, 16:06:49
+google translate,21/7/2022, 15:54:28
+nike skate,21/7/2022, 11:42:10
+teams,21/7/2022, 10:51:17
+26 en romano,20/7/2022, 12:29:23
+deep dish pizza,19/7/2022, 11:41:34
+brooklyn pizza,19/7/2022, 11:41:19
+canva,19/7/2022, 09:13:09
+youtube,18/7/2022, 10:59:57
+IMPLEMENT APIS IN PRESTASHOP,18/7/2022, 10:57:22
+mi perfil,14/7/2022, 12:39:56
+traductr,14/7/2022, 12:35:13
